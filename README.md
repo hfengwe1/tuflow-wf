@@ -40,8 +40,8 @@ Write about the requirements,
 3. Clone your project in [Command Prompt](http://www.informit.com/blogs/blog.aspx?uk=The-10-Most-Important-Linux-Commands)
 
    ```
-   git clone https://github.com/leogoesger/func-flow.git
-   cd func-flow
+   git clone https://github.com/leogoesger/tuflow-wf.git
+   cd tuflow-wf
    ```
 
 4. Create and activate virtualenv
